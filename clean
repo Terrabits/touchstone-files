@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+rm port-test/re-im.s*p
+rm attenuator/*" dB.s2p"

@@ -1,0 +1,5 @@
+!Created with skrf (http://scikit-rf.org).
+# GHz S RI R 50.0 
+!freq ReS11 ImS11
+0.0 11.0 11.0
+1000.0 11.0 11.0
